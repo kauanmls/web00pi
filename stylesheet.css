@@ -42,6 +42,5 @@ a {
 div:first-child {
   text-align: right;
   margin-right: 20px;
-  margin-top: 160;
-  position: absolute;
+  margin-top: 160px;
 }
