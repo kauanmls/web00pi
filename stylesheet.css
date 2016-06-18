@@ -15,28 +15,3 @@ body {
   background-color: yellow;
   position: absolute;
 }
-div:first-child {
-  color: white;
-  margin: auto;
-}
-div:nth-child(2) {
-  height: 30px;
-	width: 190px;
-  background-color: white;
-  margin-top: 10px;
-   margin: auto;
-   color: #999999;
-   text-align: left;
-}
-div:nth-child(3) {
-  height: 30px;
-	width: 190px;
-  background-color: white;
-  margin-top: 10px;
-   margin: auto;
-   color: #999999;
-   text-align: left;
-}
-h4 {
- margin-left: 5px;
-}
