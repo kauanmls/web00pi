@@ -30,3 +30,6 @@ li {
 	background-color: black;
 	margin-left: 20px;
 }
+a {
+  text-decoration: none;
+}
