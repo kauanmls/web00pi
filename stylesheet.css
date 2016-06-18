@@ -19,7 +19,6 @@ body {
 }
 ul{
 	list-style-type: none;
-	position: fixed;
 	margin-top: 135px;
 	margin-left: 400px;
 }
