@@ -17,14 +17,14 @@ body {
 }
 div:first-child {
   color: white;
-  margin-left: 80px;
+  margin: auto;
 }
 div:nth-child(2) {
   height: 30px;
 	width: 190px;
   background-color: white;
   margin-top: 10px;
-   margin-left: 80px;
+   margin: auto;
    color: #999999;
    text-align: left;
 }
@@ -33,7 +33,7 @@ div:nth-child(3) {
 	width: 190px;
   background-color: white;
   margin-top: 10px;
-   margin-left: 80px;
+   margin: auto;
    color: #999999;
    text-align: left;
 }
