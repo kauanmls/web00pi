@@ -19,6 +19,7 @@ ul{
 	list-style-type: none;
 	position: fixed;
 	margin-top: 160px;
+	margin-left: 500px;
 }
 li {
 	display: inline;
