@@ -15,3 +15,16 @@ body {
   background-color: yellow;
   position: absolute;
 }
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+li {
+	display: inline;
+	border: 2px solid #000000;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #cc0323
+}
