@@ -12,7 +12,7 @@ body {
   background-size: 100% 100%;
 }
 #chimbica {
-  height: 170px;
+  height: 100px;
   width: 100%;
   background-color: yellow;
   position: fixed;
@@ -48,7 +48,7 @@ a {
 }
 img {
   margin-top: 200px;
-  margin-left: 20px;
+  margin-right: 20px;
   height: 600px;
   width: 700px;
 }
