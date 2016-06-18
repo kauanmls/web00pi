@@ -20,7 +20,7 @@ body {
 ul{
 	list-style-type: none;
 	position: fixed;
-	margin-top: 150px;
+	margin-top: 140px;
 	margin-left: 400px;
 }
 li {
@@ -34,6 +34,7 @@ li {
 }
 a {
   text-decoration: none;
+  color: white;
 }
 .caceta {
   color: white;
