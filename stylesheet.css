@@ -18,7 +18,8 @@ body {
 ul{
 	list-style-type: none;
 	position: fixed;
-	margin-top: 165px;
+	margin-top: 160px;
+	margin-left: 20px;
 }
 li {
 	display: inline;
@@ -26,5 +27,5 @@ li {
 	color: #ffffff;
 	padding: 5px;
 	border-radius: 5px 5px;
-	background-color: #cc0323;
+	background-color: black;
 }
