@@ -19,7 +19,6 @@ ul{
 	list-style-type: none;
 	position: fixed;
 	margin-top: 160px;
-	margin-left: 20px;
 }
 li {
 	display: inline;
@@ -28,4 +27,5 @@ li {
 	padding: 5px;
 	border-radius: 5px 5px;
 	background-color: black;
+	margin-left: 20px;
 }
