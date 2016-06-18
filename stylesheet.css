@@ -39,3 +39,6 @@ a {
 #cau {
   color: black;
 }
+div:first-child {
+  text-align: right;
+}
