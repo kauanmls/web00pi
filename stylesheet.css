@@ -9,7 +9,30 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-div {
+div:first-child {
+   text-align: center;
+   margin-top: 280px;
+   color: white;
+}
+div:nth-child(2) {
+  height: 30px;
+	width: 190px;
+  background-color: white;
+  margin-top: 10px;
+   margin: auto;
+   color: #999999;
+   text-align: left;
+}
+div:nth-child(3) {
+  height: 30px;
+	width: 190px;
+  background-color: white;
+   margin: auto;
+   margin-top: 20px;
+   color: #999999;
+   text-align: left;
+}
+div:nth-child(4) {
   height: 200px;
   width: 100%;
   background-color: yellow;
