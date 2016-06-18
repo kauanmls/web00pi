@@ -38,9 +38,8 @@ a {
 }
 #cau {
   color: black;
-}
-div:first-child {
-  text-align: right;
+   text-align: right;
   margin-right: 20px;
   margin-top: 160px;
 }
+
