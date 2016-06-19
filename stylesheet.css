@@ -56,13 +56,7 @@ img {
   background-color: yellow;
 }
 #texto {
-  position: relative;
   margin-top: 40px;
   text-align: center;
   margin-right: 50px;
-  float: left;
-}
-#imagem {
-  position: relative;
-  float: left;
 }
