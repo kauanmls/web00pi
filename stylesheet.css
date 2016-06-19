@@ -15,7 +15,6 @@ body {
   height: 100px;
   width: 100%;
   background-color: yellow;
-  position: fixed;
 }
 ul{
 	list-style-type: none;
