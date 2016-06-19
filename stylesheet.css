@@ -49,6 +49,7 @@ img {
   margin-right: 520px;
   height: 600px;
   width: 700px;
+  display: inline;
 }
 #pipa {
   height: 60px;
