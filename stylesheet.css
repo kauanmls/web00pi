@@ -56,7 +56,9 @@ img {
   background-color: yellow;
 }
 #texto {
-  margin-top: 40px;
+  margin: left;
   text-align: center;
-  margin-right: 50px;
+}
+#imagem {
+  margin: right;
 }
