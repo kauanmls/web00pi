@@ -2,7 +2,6 @@ h1 {
   text-align: center;
 }
 body {
-  text-align: right;
   margin-right: 20px;
   margin-top: 160px;
   margin: auto;
@@ -50,5 +49,3 @@ img {
   height: 600px;
   width: 700px;
 }
-
-
