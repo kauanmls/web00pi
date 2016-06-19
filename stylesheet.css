@@ -20,6 +20,7 @@ ul{
 	list-style-type: none;
 	margin-top: 65px;
 	margin-left: 400px;
+	position: relative;
 }
 li {
 	display: inline;
