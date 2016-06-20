@@ -58,4 +58,8 @@ img {
 #texto {
   text-align: center;
   margin-top: 200px;
+  position: fixed;
+}
+#imagem {
+  position: fixed;
 }
