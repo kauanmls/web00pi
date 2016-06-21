@@ -46,9 +46,9 @@ a {
 }
 img {
   margin-top: 40px;
-  margin-right: 520px;
+  margin: auto;
   height: 600px;
-  width: 700px;
+  width: 800px;
 }
 #pipa {
   height: 60px;
